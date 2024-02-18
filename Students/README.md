@@ -2,15 +2,15 @@
 
 | #   | Name                             | GitHub Profile                 |
 | --- | -------------------------------- | ------------------------------ |
-| 1   | Roland Jay A. Agasid             | [sample-username](https://github.com/sample-username) |
-| 2   | Christian Jay Vence              | [sample-username](https://github.com/sample-username) |
+| 1   | Roland Jay A. Agasid             | [roland-agasid](https://github.com/WebKoTo) |
+| 2   | Christian Jay Vence              | [sample-username](https://github.com/vkiyo) |
 | 3   | Gavin Daniel Seonggun Manansala  | [sample-username](https://github.com/sample-username) |
 | 4   | Ernest Teh                        | [sample-username](https://github.com/sample-username) |
-| 5   | Vhong Alibong                     | [sample-username](https://github.com/sample-username) |
-| 6   | Tolentino Miguel                  | [sample-username](https://github.com/sample-username) |
+| 5   | Vhong Alibong                     | [sample-username](https://github.com/theThird25) |
+| 6   | Andronico Nucum                  | [sample-username]((https://github.com/androniconucum)) |
 | 7   | Zhattana                          | [sample-username](https://github.com/sample-username) |
-| 8   | Vincent Sotoya                     | [sample-username](https://github.com/sample-username) |
-| 9   | Coleen May Sanchez Gatus          | [sample-username](https://github.com/sample-username) |
+| 8   | Vincent Sotoya                     | [sample-username](https://github.com/vincentsotoya) |
+| 9   | Coleen May Sanchez Gatus          | [sample-username](https://github.com/leeenggg) |
 
 ## Group 2
 
